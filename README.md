@@ -5,6 +5,7 @@
 ---
 
 ### :woman_technologist: About Me :
+I am a ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 <!--
 **Nguyen181124/Nguyen181124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
