@@ -4,7 +4,7 @@
 <div align="center">Hi, my name's Nguyen 👋</div>
 ---
 
-### :face_in_clouds: About me:
+### :woman_technologist: About Me :
 <!--
 **Nguyen181124/Nguyen181124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
