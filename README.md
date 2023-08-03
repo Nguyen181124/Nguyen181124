@@ -7,7 +7,7 @@
 I am a ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 - 🌱 I’m currently learning at  East Asia University of Technology - IT
 - :love_you_gesture: Date of birthday: 18/11/2004
-- 💬 Phone: 0386510868
+- :telephone_receiver: Phone: 0386510868
 - 📫 Email: nguyen181124@gmail.com
 - 😄 My hobby is cycling
 - ⚡ Fun fact: 1m65 :))
