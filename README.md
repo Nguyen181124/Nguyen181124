@@ -11,5 +11,7 @@ I am a ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 - 📫 Email: nguyen181124@gmail.com
 - 😄 My hobby is cycling
 - ⚡ Fun fact: 1m65 :))
+---
 
+### :hammer_and_wrench: Languages and Tools :
 
