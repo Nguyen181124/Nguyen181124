@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="100"/>
 </div>
-<div align="center">Hi, my name's Nguyen 👋</div>
-___
-
+<div align="center">Hi, my name's Nguyen 👋</div>---
 ### :woman_technologist: About Me :
 I am a ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 <!--
