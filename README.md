@@ -1,8 +1,8 @@
-
+### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="100"/>
 </div>
-### Hi there 👋
+
 <!--
 **Nguyen181124/Nguyen181124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
