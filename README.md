@@ -2,9 +2,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="100"/>
 </div>
-                         Hi my name's Nguyen 👋
+                         Hi, my name's Nguyen 👋
 
-<!--
+
 **Nguyen181124/Nguyen181124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
