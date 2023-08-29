@@ -5,7 +5,7 @@
 
 ---
 ### :face_in_clouds: About Me :
-I am a ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
+I am ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 - 🌱 I’m currently learning at  East Asia University of Technology - IT
 - :telephone_receiver: Phone: 0386510868
 - 📫 Email: nguyen181124@gmail.com
